@@ -2,3 +2,7 @@ devops is good
 python is good
 devops and python
 pythonautomation rocks
+
+Connection from 192.168.1.10
+Failed login from 10.0.0.5
+Ping 8.8.8.8 successful
