@@ -8,4 +8,11 @@ INFO Service started
 ERROR Database failed
 INFO User logged in
 WARN Disk space low
-ERROR Timeout
+ERROR Timeout occuring
+ERROR Timeout occuring
+ERROR Timeoutoccured
+Connection from 10.0.0.1 successful
+Failed login from 192.168.1.5
+User connected from localhost
+Ping from 8.8.8.8
+
